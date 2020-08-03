@@ -1,5 +1,5 @@
-# Date: 12/29/2018
-# Author: Mohamed
+# Date: 03/08/2020
+# Author: Edoardo
 # Description: Instagram bruter
 
 from sys import exit
